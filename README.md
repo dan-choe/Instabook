@@ -2,6 +2,8 @@
 
 ![Instabook](https://github.com/dan-choe/Instabook/blob/master/screenshots/Capture4.PNG "Instabook")
 
+[Download Instabook Documentation](https://github.com/dan-choe/Instabook/blob/master/InstabookDocumentation.pdf)
+
 ### Team Members:
 Dan Choe (devdanchoe@gmail.com or dan.choe@stonybrook.edu)
 Sean Clark (sean.m.clark@stonybrook.edu)
@@ -32,3 +34,8 @@ We made Preferences a separate table where each preference category is a column 
 ![RelationalModel](https://github.com/dan-choe/Instabook/blob/master/screenshots/relation2.PNG "RelationalModel")
 
 I can't show all the relational model since there are a lot. I put more details in UserGuide file(*.pdf).
+
+## License
+Copyright [2017] [Dan Choe](https://github.com/dan-choe) [Sean Clark](sean.m.clark@stonybrook.edu) [Nathaniel Clench](nathaniel.clench@stonybrook.edu)
+
+
