@@ -36,6 +36,6 @@ We made Preferences a separate table where each preference category is a column 
 I can't show all the relational model since there are a lot. I put more details in UserGuide file(*.pdf).
 
 ## License
-Copyright [2017] [Dan Choe](https://github.com/dan-choe) [Sean Clark](sean.m.clark@stonybrook.edu) [Nathaniel Clench](nathaniel.clench@stonybrook.edu)
+Copyright [2017] [Dan Choe](https://github.com/dan-choe)  [Sean Clark](sean.m.clark@stonybrook.edu)   [Nathaniel Clench](nathaniel.clench@stonybrook.edu)
 
 
