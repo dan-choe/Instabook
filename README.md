@@ -5,9 +5,9 @@
 [Download Instabook Documentation](https://github.com/dan-choe/Instabook/blob/master/InstabookDocumentation.pdf)
 
 ### Team Members:
-Dan Choe (devdanchoe@gmail.com or dan.choe@stonybrook.edu)  
-Sean Clark (sean.m.clark@stonybrook.edu)  
-Nathaniel Clench (nathaniel.clench@stonybrook.edu)  
+Dan Choe (devdanchoe@gmail.com or dan.choe@stonybrook.edu)    
+Sean Clark (sean.m.clark@stonybrook.edu)    
+Nathaniel Clench (nathaniel.clench@stonybrook.edu)    
 
 
 ### Collaboration plan:
